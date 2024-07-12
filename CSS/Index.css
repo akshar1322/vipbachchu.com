@@ -1,0 +1,14 @@
+@import url(../Assets/fonts/array.css);
+@import url(../Assets/fonts/nodeCamera.css);
+body {
+  font-family: 'nodeCamera-midum';
+  color: #333;
+  background-color: black;
+}
+.main-conatner {
+  display: flex;
+  margin: auto;
+  top: 2rem;
+  border-radius: 2rem;
+  background-color: aliceblue;
+}

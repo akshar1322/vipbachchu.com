@@ -1,0 +1,21 @@
+
+  /*nodeCamera  */
+  @font-face {
+    font-family: 'nodeCamera'; /* Name your custom font */
+    src: url('') format('woff2'), /* Path to your font file */
+         url('../fonts/nodeCamera/nodeCamera.woff2') format('woff'); /* Backup format */
+    font-weight: normal;
+    font-style: normal;
+  }@font-face {
+    font-family: 'nodeCamera-midum'; /* Name your custom font */
+    src: url('') format('woff2'), /* Path to your font file */
+         url('../fonts/nodeCamera/nodeCamera\ midum.woff2') format('woff'); /* Backup format */
+    font-weight: normal;
+    font-style: normal;
+  }@font-face {
+    font-family: 'nodeCamera-nod'; /* Name your custom font */
+    src: url('') format('woff2'), /* Path to your font file */
+         url('../fonts/nodeCamera/nodeCamera\ nod.woff2') format('woff'); /* Backup format */
+    font-weight: normal;
+    font-style: normal;
+  }
